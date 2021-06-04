@@ -1,0 +1,2 @@
+node begin.js
+pause
